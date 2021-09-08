@@ -16,3 +16,5 @@ $ deactivate
 # Create a Django project
 django-admin startproject (the name of new project) 
 
+# Create an app
+django-adming startapp (the name of new app)
