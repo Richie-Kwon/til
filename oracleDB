@@ -34,4 +34,8 @@ SQL> SELECT table_name FROM all_tables WHERE OWNER = (username);
 https://docs.oracle.com/database/121/SQLRF/toc.htm
 
 # Primary key
+    
+# View    
 
+    
+    
