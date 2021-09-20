@@ -1,0 +1,37 @@
+# Make a connection to Oracle DB
+UserName:
+Password: 
+
+# CRUD
+- Create
+- Read
+- Update
+- Delete
+
+# Group
+
+
+# Run (SQL)
+
+
+
+# Schema
+
+
+# Creating UserName
+Username: sys as SYSDBA >> connecting to DB as admin
+SQL> CREATE USER c## (username) IDENTIFIED BY (password)
+
+# Creating authority 
+SQL> GRANT DBA TO  (username); >> admin
+
+# Create a table
+https://www.oracletutorial.com/oracle-basics/oracle-create-table/
+SQL> SELECT table_name FROM all_tables WHERE OWNER = (username);
+
+
+# SQL syntax reference
+https://docs.oracle.com/database/121/SQLRF/toc.htm
+
+# Primary key
+
