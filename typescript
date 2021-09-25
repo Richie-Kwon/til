@@ -1,3 +1,21 @@
 typescript
 TypeScript is an open-source language that was developed by Microsoft. It is a superset of JavaScript, 
 which means that you can continue to use the JavaScript skills you've already developed and add certain features that were previously unavailable to you.
+
+
+# Feature
+1. Type 
+2. Objective
+3. Compile time error
+
+# Visual studio code -extension
+1.Eslint
+2.Pathintellisense
+3.Blacket pair colorizer
+4.Material icon theme
+
+# Download typescript
+https://www.typescriptlang.org/
+'''
+npm install -g typescript
+'''
