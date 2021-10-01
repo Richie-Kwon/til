@@ -1,1 +1,6 @@
+# Azure
 
+DNS lable to the service
+
+invoicing-aks.uk
+kubectl apply -f corednsms.yaml
