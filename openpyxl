@@ -1,1 +1,3 @@
 # Start using openpyxl
+
+python/script/pip install [library name]
