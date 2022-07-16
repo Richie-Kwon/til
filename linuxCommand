@@ -1,0 +1,6 @@
+ls -al
+pwd
+mkdir
+touch 
+rm romove file
+rm -r 
