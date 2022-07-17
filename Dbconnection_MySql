@@ -1,1 +1,8 @@
 * MySql
+
+*MS SQL
+protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            optionsBuilder.UseSqlServer(
+                @"Server=127.0.0.1;Database=AspNote;User Id=sa;Password=richie1234Jen!;");
+        }
