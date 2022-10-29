@@ -1,0 +1,20 @@
+git config --global user.name "richie"
+
+git config --global user.email "richie.kwon1@gmail.com"
+
+### line  /n (carriage-return)
+git config --global core.autocrlf input
+
+git status
+
+### Apply alias 
+ex) git config --global alias.st status 
+
+### Help 
+git config --h
+
+### unstaging all
+git rm --cached *
+
+### git ignore
+ex) echo *.log > .gitignore
